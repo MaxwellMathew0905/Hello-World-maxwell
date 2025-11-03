@@ -18,3 +18,8 @@ git reset <file>	Unstage added file
 git config --global user.name "Your Name"	Set username
 git config --global user.email "you@mail.com"	Set email
 git help
+git clone
+git grep
+git rm filename
+git mv
+git fetch origin master
