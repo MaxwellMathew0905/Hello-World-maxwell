@@ -1,0 +1,20 @@
+git init	
+git clone 
+git status	Check what changed in project
+git add .	Add all changed files to staging
+git add <filename>	Add one specific file
+git commit -m "msg"	Save changes with a message
+git push	Upload changes to GitHub
+git pull	Download latest changes from GitHub
+git branch	Show branches in repo
+git branch <name>	Create a new branch
+git checkout <name>	Switch to a different branch
+git merge <branch>	Combine changes of another branch
+git log	Show commit history
+git remote -v	Show remote GitHub link
+git rm <file>	Remove file & track deletion
+git diff	Show what changed before adding
+git reset <file>	Unstage added file
+git config --global user.name "Your Name"	Set username
+git config --global user.email "you@mail.com"	Set email
+git help
