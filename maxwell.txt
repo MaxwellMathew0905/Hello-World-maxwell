@@ -23,3 +23,45 @@ git grep
 git rm filename
 git mv
 git fetch origin master
+
+ls
+cd
+pwd
+mkdir
+rmdir
+rm
+cp
+mv
+touch
+cat
+nano
+vim
+head
+tail
+grep
+find
+chmod
+chown
+df
+top
+
+docker --version
+docker pull
+docker run
+docker ps
+docker ps -a
+docker stop
+docker start
+docker rm
+docker rmi
+docker images
+docker image ls
+docker exec
+docker logs
+docker build
+docker compose up
+docker compose down
+docker inspect
+docker stats
+docker login
+docker logout
